@@ -12,6 +12,6 @@ npm i -D ts-node
 
 dentro da pasta .vscode foi criado o arquivo settings.json 
 
-npm install --save eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier eslint-config-prettier eslint-plugin-prettier
+npm install -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier eslint-config-prettier eslint-plugin-prettier
 
 npm uninstall -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier eslint-config-prettier eslint-plugin-prettier
