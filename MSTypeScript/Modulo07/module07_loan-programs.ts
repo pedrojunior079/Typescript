@@ -1,4 +1,4 @@
-import * as Loans from './module07_loans';
+import * as Loans from '../Modulo07/module07_loans';
 /* TODO Adicionar importação statement. */
 
 /* TODO  calcula o pagamento de um empréstimo somente de juros. */
