@@ -4,7 +4,7 @@
   "description": "Tutorial de Typescript com nodejs",
   "main": "app.js",
   "scripts": {
-    "test": "tsc"
+    "start":  "tsc ; nodemon ./dist/app"
   },
   "author": "pedrojr",
   "license": "ISC",
